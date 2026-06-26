@@ -74,3 +74,51 @@ Small and marginal farmers of Tamil Nadu who use Android smartphones and need re
 ---
 
 ## 🛠️ Tech Stack
+---
+
+## 🔑 API Keys
+
+The app works without API keys using cached demo data. For full live features:
+
+**OpenWeatherMap — Live Weather**
+1. Sign up free at [openweathermap.org](https://openweathermap.org/api)
+2. Open `index.html` in a text editor
+3. Find `YOUR_OPENWEATHER_API_KEY` → replace with your key
+
+**Anthropic Claude — AI Chatbot**
+1. Sign up at [console.anthropic.com](https://console.anthropic.com)
+2. Enter your key in the app's AI Chat → Settings panel
+3. *(Key is saved only in your browser — never shared)*
+
+---
+
+## 🤝 Contributing
+
+- 🐛 Found a bug? [Open an Issue](../../issues)
+- 💡 Have an idea? [Start a Discussion](../../discussions)
+- 🌱 Want to add crops or schemes? Send a Pull Request!
+
+---
+
+## 📄 License
+
+MIT License — free to use, share, and modify. See [LICENSE](LICENSE).
+
+---
+
+## 🙏 Acknowledgements
+
+- Tamil Nadu farmers who inspired this project
+- [Anthropic](https://anthropic.com) — Claude AI API
+- [OpenWeatherMap](https://openweathermap.org) — Weather data
+- [OpenStreetMap](https://openstreetmap.org) — Free geocoding
+
+---
+
+<div align="center">
+
+Made with ❤️ for Tamil Nadu Farmers
+
+**உழவே உயிர்**
+
+</div>
