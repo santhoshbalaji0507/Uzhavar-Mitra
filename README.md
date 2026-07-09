@@ -11,9 +11,8 @@
 
 ## 🔗 Live Demo
 
-> **👉 [https://your-deployment-link-here.vercel.app](https://your-deployment-link-here.vercel.app)**
->
-> *(Replace this link with your actual Vercel URL after deployment)*
+> **👉 [https://your-deployment-link-here.vercel.app](https://uzhavar-mitra.vercel.app/)**
+
 
 ---
 
