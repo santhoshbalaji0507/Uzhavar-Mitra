@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-> **👉 [INSERT YOUR DEPLOYED URL HERE]**
+> **👉 [[Uzhavar-Mitra](https://uzhavar-mitra.vercel.app/)]**
 >
 > _e.g. `https://uzhavar-mitra.vercel.app` — replace both this line and the_
 > _"Live Demo" badge link above once you've deployed on Vercel._
